@@ -1,6 +1,8 @@
 NX-NotaryJob | QB-Core Notary & Legal Document Script
 Developed by NXT GEN
-
+--------------------------------------------------------------------------------------------------
+  DOWNLOAD : https://discord.com/channels/1067514526255288340/1383202215174344734/1383202355675398164
+---------------------------------------------------------------------------------------------------
 Description
 NX-NotaryJob is an enhanced QB-Core script that allows players to work as notaries, facilitating legal transactions such as:
 
